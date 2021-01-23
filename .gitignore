@@ -6,3 +6,4 @@
 !premake5.lua
 !vs2019.bat
 !.gitignore
+!/assets/**
