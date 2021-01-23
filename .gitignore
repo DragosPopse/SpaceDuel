@@ -12,7 +12,7 @@
 *.vcxproj.filters
 bin-int/
 bin/
-!external/**
+!/external/**
 assets/config/Player.json
 assets/config/saves/
 
